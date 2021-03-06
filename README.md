@@ -1,4 +1,4 @@
-## Colt-Steele - The Museum-Of Candy Project
+## Colt-Steele - The Museum Of Candy Project
 
 ##### This is a Colt's Museum of Candy Project. I Updated with some Features. Check it Out 👉
 
