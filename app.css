@@ -1,0 +1,153 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #ffefd5;
+  font-family: "Nunito", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.navbar-toggler:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.nav-bar {
+  font-size: 1.9rem;
+  color: #4b4f6894;
+  padding: 3px 10px;
+}
+
+#mainNavbar {
+  font-weight: 100;
+  font-size: 1.5rem;
+  padding: 0 3rem;
+}
+
+#mainNavbar img {
+  margin: 0 2rem;
+}
+
+#mainNavbar .nav-link {
+  margin-right: 1rem;
+  color: rgba(110, 90, 220);
+  opacity: 0.7;
+}
+
+#mainNavbar .nav-link:hover {
+  opacity: 1;
+}
+
+#mainNavbar .navbar-brand {
+  color: #ea1c2c;
+  font-size: 1.5rem;
+}
+
+.container-fluid {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+
+.copy h2 {
+  color: red;
+  font-weight: 100;
+  font-size: 2.5rem;
+}
+
+.copy p {
+  color: #f08080;
+  font-weight: 100;
+  font-size: 1.125;
+  line-height: 1.9;
+}
+
+.content {
+  margin-top: 100px;
+  margin-bottom: 50px;
+}
+
+#lastP {
+  margin-bottom: 300px;
+}
+
+#headingGroup h2 {
+  font-weight: 100;
+  font-size: 4rem;
+}
+
+#headingGroup span {
+  color: gold;
+}
+
+.navbar.scrolled {
+  background: #dee2ff;
+  transition: background 400ms;
+}
+
+#footer-sec {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background-color: #cbcccf;
+}
+
+#style-me {
+  color: rgb(15, 79, 139);
+  font-size: 0.9rem;
+  letter-spacing: 0.5px;
+}
+
+#style-me h2 {
+  font-size: 1.2rem;
+  color: #4a4e69;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  margin: 15px 0 30px;
+}
+
+.follow-us p {
+  display: inline-block;
+  list-style: none;
+  margin: 0;
+}
+
+.follow-us a {
+  font-size: 1.8rem;
+  color: #053541;
+  padding: 0;
+  margin-right: 10px;
+}
+
+.d-lg-block {
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+@media (max-width: 1200px) {
+  #headingGroup h2 {
+    font-weight: 100;
+    font-size: 3rem;
+  }
+}
+
+@media (min-width: 350px) and (max-width: 600px) {
+  #mainNavbar {
+    padding: 0;
+    margin: 0;
+  }
+
+  #mainNavbar .nav-item {
+    margin-left: 0.7rem;
+  }
+
+  #style-me h2 {
+    font-size: 0.9rem;
+    margin-top: 35px;
+  }
+}
