@@ -1,5 +1,7 @@
 ### The Museum Of Candy - Colt-Steele's Project
 
+#### Updated with New Features
+
 - Build with Html, Css, jQuery, Bootstrap, Google Font and Font Awsome
 - Responsive Design with FlexBox
 - Updated with New Features
