@@ -1,4 +1,4 @@
-### The Museum Of Candy - Colt-Steele's Project
+### The Museum of Candy - Colt-Steele's Project
 
 #### Updated with New Features
 
