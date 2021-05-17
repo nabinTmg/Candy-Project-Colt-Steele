@@ -10,4 +10,5 @@
 
 ##### Check it Out 👉 [Candy_Project]
 
-[candy_project]: https://nabintmg.github.io/Candy_Project_Colt_Steele/
+[candy_project]: https://nabintmg.github.io/Candy-Project-Colt-Steele/
+
